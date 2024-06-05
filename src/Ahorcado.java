@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.print.FlavorException;
-
 public class Ahorcado {
     public static void main(String[] args) throws Exception {
 
